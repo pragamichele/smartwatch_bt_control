@@ -1,3 +1,12 @@
+/*
+  This Arduino code is provided "as is", without any warranty of any kind.
+  It may be used, modified, and distributed exclusively for non-commercial purposes.
+  Use for commercial purposes is expressly prohibited without prior written consent from the author.
+  
+  Author: Praga Michele
+
+  License: Non-commercial use only
+*/
 #include <Arduino.h>
 #include <BluetoothA2DPSink.h>
 #include <ESP32Servo.h>
